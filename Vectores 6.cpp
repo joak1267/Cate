@@ -1,5 +1,5 @@
 // Vectores
-// Escriba un programa que defina un vector de numeros y calcule si existe algun numero en el vector cuyo valor equvale a la suma del resto de numeros del vector
+// Escriba un programa que defina un vector de numeros y calcule si existe algun numero en el vector cuyo valor equivale a la suma del resto de numeros del vector
 
 #include <iostream>
 using namespace std;
